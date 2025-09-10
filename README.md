@@ -1,4 +1,3 @@
-%%markdown
 # Solving the AND Problem with a Neural Network
 
 This project demonstrates the implementation of a simple neural network to solve the logical AND function.
